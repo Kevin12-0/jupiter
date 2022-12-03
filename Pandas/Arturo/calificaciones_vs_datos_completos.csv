@@ -1,0 +1,432 @@
+,matricula,11111111
+0,nombre,Alumno 1
+1,grupo,TI11
+2,Materia 1,1
+3,Materia 2,8
+4,Materia 3,1
+5,Materia 4,7
+6,Materia 5,2
+7,estado,regular
+8,matricula,11111112
+9,nombre,Alumno 2
+10,grupo,TI11
+11,Materia 1,10
+12,Materia 2,7
+13,Materia 3,1
+14,Materia 4,8
+15,Materia 5,5
+16,estado,regular
+17,matricula,11111113
+18,nombre,Alumno 3
+19,grupo,TI11
+20,Materia 1,0
+21,Materia 2,1
+22,Materia 3,1
+23,Materia 4,3
+24,Materia 5,0
+25,estado,regular
+26,matricula,11111114
+27,nombre,Alumno 4
+28,grupo,TI11
+29,Materia 1,0
+30,Materia 2,4
+31,Materia 3,3
+32,Materia 4,2
+33,Materia 5,7
+34,estado,regular
+35,matricula,11111115
+36,nombre,Alumno 5
+37,grupo,TI11
+38,Materia 1,9
+39,Materia 2,10
+40,Materia 3,3
+41,Materia 4,9
+42,Materia 5,2
+43,estado,regular
+44,matricula,11111116
+45,nombre,Alumno 6
+46,grupo,TI11
+47,Materia 1,1
+48,Materia 2,3
+49,Materia 3,8
+50,Materia 4,1
+51,Materia 5,7
+52,estado,regular
+53,matricula,11111117
+54,nombre,Alumno 7
+55,grupo,TI11
+56,Materia 1,4
+57,Materia 2,7
+58,Materia 3,1
+59,Materia 4,6
+60,Materia 5,5
+61,estado,regular
+62,matricula,11111118
+63,nombre,Alumno 8
+64,grupo,TI11
+65,Materia 1,10
+66,Materia 2,1
+67,Materia 3,7
+68,Materia 4,10
+69,Materia 5,0
+70,estado,regular
+71,matricula,11111119
+72,nombre,Alumno 9
+73,grupo,TI11
+74,Materia 1,5
+75,Materia 2,5
+76,Materia 3,4
+77,Materia 4,0
+78,Materia 5,3
+79,estado,regular
+80,matricula,11111120
+81,nombre,Alumno 10
+82,grupo,TI11
+83,Materia 1,5
+84,Materia 2,7
+85,Materia 3,3
+86,Materia 4,3
+87,Materia 5,4
+88,estado,regular
+89,matricula,11111121
+90,nombre,Alumno 11
+91,grupo,TI11
+92,Materia 1,6
+93,Materia 2,1
+94,Materia 3,3
+95,Materia 4,7
+96,Materia 5,0
+97,estado,regular
+98,matricula,11111122
+99,nombre,Alumno 12
+100,grupo,TI11
+101,Materia 1,7
+102,Materia 2,2
+103,Materia 3,5
+104,Materia 4,4
+105,Materia 5,5
+106,estado,regular
+107,matricula,11111123
+108,nombre,Alumno 13
+109,grupo,TI12
+110,Materia 1,5
+111,Materia 2,2
+112,Materia 3,3
+113,Materia 4,0
+114,Materia 5,1
+115,estado,regular
+116,matricula,11111124
+117,nombre,Alumno 14
+118,grupo,TI12
+119,Materia 1,5
+120,Materia 2,2
+121,Materia 3,10
+122,Materia 4,0
+123,Materia 5,6
+124,estado,regular
+125,matricula,11111125
+126,nombre,Alumno 15
+127,grupo,TI12
+128,Materia 1,9
+129,Materia 2,9
+130,Materia 3,1
+131,Materia 4,3
+132,Materia 5,1
+133,estado,regular
+134,matricula,11111126
+135,nombre,Alumno 16
+136,grupo,TI12
+137,Materia 1,1
+138,Materia 2,2
+139,Materia 3,1
+140,Materia 4,7
+141,Materia 5,7
+142,estado,regular
+143,matricula,11111127
+144,nombre,Alumno 17
+145,grupo,TI12
+146,Materia 1,0
+147,Materia 2,2
+148,Materia 3,1
+149,Materia 4,0
+150,Materia 5,2
+151,estado,regular
+152,matricula,11111128
+153,nombre,Alumno 18
+154,grupo,TI12
+155,Materia 1,0
+156,Materia 2,1
+157,Materia 3,4
+158,Materia 4,7
+159,Materia 5,6
+160,estado,regular
+161,matricula,11111129
+162,nombre,Alumno 19
+163,grupo,TI12
+164,Materia 1,0
+165,Materia 2,8
+166,Materia 3,7
+167,Materia 4,8
+168,Materia 5,2
+169,estado,regular
+170,matricula,11111130
+171,nombre,Alumno 20
+172,grupo,TI12
+173,Materia 1,4
+174,Materia 2,0
+175,Materia 3,5
+176,Materia 4,0
+177,Materia 5,4
+178,estado,regular
+179,matricula,11111131
+180,nombre,Alumno 21
+181,grupo,TI12
+182,Materia 1,6
+183,Materia 2,4
+184,Materia 3,2
+185,Materia 4,10
+186,Materia 5,10
+187,estado,regular
+188,matricula,11111132
+189,nombre,Alumno 22
+190,grupo,TI12
+191,Materia 1,5
+192,Materia 2,6
+193,Materia 3,9
+194,Materia 4,0
+195,Materia 5,3
+196,estado,regular
+197,matricula,11111133
+198,nombre,Alumno 23
+199,grupo,TI12
+200,Materia 1,1
+201,Materia 2,9
+202,Materia 3,7
+203,Materia 4,7
+204,Materia 5,6
+205,estado,regular
+206,matricula,11111134
+207,nombre,Alumno 24
+208,grupo,TI41
+209,Materia 1,4
+210,Materia 2,0
+211,Materia 3,10
+212,Materia 4,7
+213,Materia 5,0
+214,estado,regular
+215,matricula,11111135
+216,nombre,Alumno 25
+217,grupo,TI41
+218,Materia 1,3
+219,Materia 2,3
+220,Materia 3,0
+221,Materia 4,8
+222,Materia 5,5
+223,estado,regular
+224,matricula,11111136
+225,nombre,Alumno 26
+226,grupo,TI41
+227,Materia 1,0
+228,Materia 2,5
+229,Materia 3,7
+230,Materia 4,2
+231,Materia 5,0
+232,Materia 5,0
+233,matricula,11111137
+234,nombre,Alumno 27
+235,grupo,TI41
+236,Materia 1,0
+237,Materia 2,0
+238,Materia 3,6
+239,Materia 4,0
+240,Materia 5,5
+241,estado,regular
+242,matricula,11111138
+243,nombre,Alumno 28
+244,grupo,TI41
+245,Materia 1,9
+246,Materia 2,3
+247,Materia 3,10
+248,Materia 4,9
+249,Materia 5,6
+250,estado,regular
+251,matricula,11111139
+252,nombre,Alumno 29
+253,grupo,TI41
+254,Materia 1,0
+255,Materia 2,5
+256,Materia 3,1
+257,Materia 4,10
+258,Materia 5,1
+259,estado,regular
+260,matricula,11111140
+261,nombre,Alumno 30
+262,grupo,TI41
+263,Materia 1,3
+264,Materia 2,3
+265,Materia 3,5
+266,Materia 4,9
+267,Materia 5,9
+268,estado,regular
+269,matricula,11111141
+270,nombre,Alumno 31
+271,grupo,TI41
+272,Materia 1,10
+273,Materia 2,10
+274,Materia 3,4
+275,Materia 4,1
+276,Materia 5,4
+277,estado,regular
+278,matricula,11111142
+279,nombre,Alumno 32
+280,grupo,TI41
+281,Materia 1,6
+282,Materia 2,0
+283,Materia 3,5
+284,Materia 4,3
+285,Materia 5,2
+286,estado,regular
+287,matricula,11111143
+288,nombre,Alumno 33
+289,grupo,IDGS91
+290,Materia 1,0
+291,Materia 2,4
+292,Materia 3,1
+293,Materia 4,7
+294,Materia 5,9
+295,estado,regular
+296,matricula,11111144
+297,nombre,Alumno 34
+298,grupo,IDGS91
+299,Materia 1,1
+300,Materia 2,1
+301,Materia 3,2
+302,Materia 4,3
+303,Materia 5,8
+304,estado,regular
+305,matricula,11111145
+306,nombre,Alumno 35
+307,grupo,IDGS91
+308,Materia 1,0
+309,Materia 2,7
+310,Materia 3,10
+311,Materia 4,7
+312,Materia 5,7
+313,estado,regular
+314,matricula,11111146
+315,nombre,Alumno 36
+316,grupo,IDGS91
+317,Materia 1,7
+318,Materia 2,1
+319,Materia 3,4
+320,Materia 4,0
+321,Materia 5,6
+322,estado,regular
+323,matricula,11111147
+324,nombre,Alumno 37
+325,grupo,IDGS91
+326,Materia 1,6
+327,Materia 2,6
+328,Materia 3,4
+329,Materia 4,3
+330,Materia 5,0
+331,estado,regular
+332,matricula,11111148
+333,nombre,Alumno 38
+334,grupo,IDGS91
+335,Materia 1,0
+336,Materia 2,6
+337,Materia 3,6
+338,Materia 4,3
+339,Materia 5,5
+340,estado,regular
+341,matricula,11111149
+342,nombre,Alumno 39
+343,grupo,IDGS91
+344,Materia 1,8
+345,Materia 2,7
+346,Materia 3,9
+347,Materia 4,5
+348,Materia 5,2
+349,estado,regular
+350,matricula,11111150
+351,nombre,Alumno 40
+352,grupo,IDGS91
+353,Materia 1,1
+354,Materia 2,0
+355,Materia 3,3
+356,Materia 4,4
+357,Materia 5,10
+358,estado,regular
+359,matricula,11111151
+360,nombre,Alumno 41
+361,grupo,IDGS91
+362,Materia 1,6
+363,Materia 2,5
+364,Materia 3,1
+365,Materia 4,5
+366,Materia 5,9
+367,estado,regular
+368,matricula,11111152
+369,nombre,Alumno 42
+370,grupo,IDGS91
+371,Materia 1,2
+372,Materia 2,0
+373,Materia 3,9
+374,Materia 4,9
+375,Materia 5,5
+376,estado,regular
+377,matricula,11111153
+378,nombre,Alumno 43
+379,grupo,IDGS91
+380,Materia 1,3
+381,Materia 2,4
+382,Materia 3,0
+383,Materia 4,0
+384,Materia 5,0
+385,estado,regular
+386,matricula,11111154
+387,nombre,Alumno 44
+388,grupo,IDGS91
+389,Materia 1,3
+390,Materia 2,1
+391,Materia 3,1
+392,Materia 4,7
+393,Materia 5,10
+394,estado,regular
+395,matricula,11111155
+396,nombre,Alumno 45
+397,grupo,IDGS91
+398,Materia 1,4
+399,Materia 2,1
+400,Materia 3,2
+401,Materia 4,8
+402,Materia 5,6
+403,estado,regular
+404,matricula,11111156
+405,nombre,Alumno 46
+406,grupo,IDGS71
+407,Materia 1,10
+408,Materia 2,1
+409,Materia 3,10
+410,Materia 4,0
+411,Materia 5,7
+412,estado,regular
+413,matricula,11111157
+414,nombre,Alumno 47
+415,grupo,IDGS71
+416,Materia 1,9
+417,Materia 2,10
+418,Materia 3,1
+419,Materia 4,3
+420,Materia 5,9
+421,estado,regular
+422,matricula,11111158
+423,nombre,Alumno 48
+424,grupo,IDGS71
+425,Materia 1,4
+426,Materia 2,4
+427,Materia 3,10
+428,Materia 4,6
+429,Materia 5,8
+430,estado,regular

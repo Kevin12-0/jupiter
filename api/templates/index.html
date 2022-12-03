@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+
+<body>
+    <section class="section">
+        <div class="container">
+            <h1 class="title">
+                Prediccion de renta de bicicletas
+            </h1>
+            <p class="subtitle">
+                Inserte los siguientes valores
+            </p>
+            <form method="post">
+                <label class="label">
+                    Season: dia del mes
+                </label>
+                <input type="number" class="input" id="season" name="season" value="0">
+                <label class="label">Month: numero del mes</label>
+                <input type="number" class="input" id="month" name="month" value="0">
+                <label class="label">Holiday: vacaciones 1, dia laboral 0 </label>
+                <input type="number" class="input" id="holiday" name="holiday" value="0">
+                <label class="label">Weekday: dia de la semana (1 al 7)</label>
+                <input type="number" class="input" id="weekday" name="weekday" value="0">
+                <label class="label">Workday: dia laboral 1, dia de descanso 0</label>
+                <input type="number" class="input" id="Workday" name="Workday" value="0">
+                <label class="label">weathersit: valores de 0 o 1</label>
+                <input type="number" class="input" id="weathersit" name="weathersit" value="0">
+                <label>Temp: en decimal</label>
+                <input type="number" class="input" id="Temp" name="Temp" value="0" step="any">
+                <label class="label">Atemp: valores en decimal</label>
+                <input type="number" class="input" id="Atemp" name="Atemp" value="0" step="any">
+                <label class="label">Hum: valores en decimal</label>
+                <input type="number" class="input" id="Hum" name="Hum" value="0" step="any">
+                <label class="label">windspeed: valores en decimal</label>
+                <input type="number" class="input" id="Windspeed" name="Windspeed" value="0" step="any">
+                <input type="submit" value="Eliminar" class="button is-primary">
+            </form>
+            <script type="text/javascript" src="./js/restas.js"></script>
+        </div>
+    </section>
+</body>
+
+</html>

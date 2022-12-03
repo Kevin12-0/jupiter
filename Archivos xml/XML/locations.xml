@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<places>
+  <place place_id="2039">
+    <name>ESTACION DE SERVICIO CALAFIA, S.A. DE C.V.</name>
+    <cre_id>PL/658/EXP/ES/2015</cre_id>
+    <location>
+      <x>-116.9214</x>
+      <y>32.47641</y>
+    </location>
+  </place>
+  <place place_id="2040">
+    <name>LAS MEJORES ESTACIONES, S.A DE C.V</name>
+    <cre_id>PL/902/EXP/ES/2015</cre_id>
+    <location>
+      <x>-99.74484</x>
+      <y>20.3037</y>
+    </location>
+  </place>
+  <place place_id="2041">
+    <name>DIAZ GAS, S.A. DE C.V.</name>
+    <cre_id>PL/760/EXP/ES/2015</cre_id>
+    <location>
+      <x>-106.4514</x>
+      <y>31.71947</y>
+    </location>
+  </place>
+</places>
